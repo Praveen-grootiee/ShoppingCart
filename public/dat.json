@@ -1,0 +1,70 @@
+[
+  {
+
+    "id":"1",
+    "name":"Apple",
+    "rs":"50",
+    "catname": "Fruit"
+  },
+  {
+    "id":"2",
+    "name":"Orange",
+    "rs":"60",
+    "catname": "Fruit"
+  },
+  
+  {
+
+    "id":"3",
+    "name":"Grapes",
+    "rs":"60",
+    "catname": "Fruit"
+  },
+  
+  {
+    "id":"4",
+    "name":"Onion",
+    "rs":"50",
+    "catname": "Vegetable"
+  },
+  {
+    "id":"5",
+    "name":"Potato",
+    "rs":"60",
+    "catname": "Vegetable"
+  },
+  {
+
+    "id":"6",
+    "name":"Tomato",
+    "rs":"60",
+    "catname": "Vegetable"
+  },
+  {
+    "id":"7",
+    "name":"Fridge",
+    "rs":"50",
+    "catname": "Appliance"
+  },
+  {
+    "id":"8",
+    "name":"Grinder",
+    "rs":"60",
+    "catname": "Appliance"
+  },
+  {
+
+    "id":"9",
+    "name":"Washing Machine",
+    "rs":"60",
+    "catname": "Appliance"
+  },
+  
+  {
+
+    "id":"10",
+    "name":"new prod",
+    "rs":"60",
+    "catname": "new cat"
+  }
+]

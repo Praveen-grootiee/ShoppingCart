@@ -1,0 +1,130 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.cop{
+  width: 100%;
+  text-align: center;
+  bottom: 0;
+  position: relative;
+}
+.column.a{
+  float: left;
+  width: 20%;
+  border: 1px solid black;
+  padding-left: 50px;
+  padding-top: 10px;
+  border-radius: 5px;
+}
+
+.column.b{
+  float: left;
+  width: 75%;
+  margin: 5px;
+  
+  padding-top: 10px;
+  padding: 16px;
+  border: 1px solid black;
+}
+.head{
+  font-size: 20px;
+}
+.check{
+  margin: 0px 40px 40px 40px;
+}
+.cat{
+  margin-top: 20px;
+  margin-left: 30px;
+
+}
+.nav{
+  margin-left: 900px;
+}
+.column{
+  float: left;
+  width: 30%;
+}
+.column.aa{
+  float: right;
+  width: 19%;
+  border: 1px solid black;
+  border-radius: 4%;
+  margin-top: 40px;
+  margin: 15px;
+}
+.ele{
+  width:50%;
+  height: 150px;;
+  border: 1px solid black;
+  border-radius: 10%;
+  text-align: center;
+  margin: 40px;
+
+}
+.Catt{
+   padding: 40px;
+}
+.colr{
+  margin-left: 10px;
+}
+.column.bb{
+  float: left;
+  width: 70%;
+  border: 1px solid black;
+  margin-top: 40px;
+  margin: 10px;
+  padding-top: 30px;
+  height:50%;
+  border-radius:4%;
+}
+.search{
+  padding-left: 870px;
+}
+.cartbox{
+  margin: 30px;
+  margin-left: 200px;
+  padding-left: 50px;
+  width: 70%;
+  height: 90%;
+  border: 2px solid black;;
+  
+}
+.tab{
+  margin: 90px;
+  table-layout: auto;
+}
+.box{
+  padding-right: 150px;
+ margin-bottom: 30px;
+}
+.row.data{
+  margin: 20px;
+  padding-left: 90px;
+}
+.description{
+  border-radius: 100%;
+  margin-left: 140px;
+  
+}
+.descriptionbox{
+  margin-left: 50px;
+  margin: 10px;
+  border:1px solid black;
+  width: 80%;
+  height: 100%;
+  position: relative;
+}
+.slider{
+  margin-top: 30px;
+}
+img{
+  width: 30%;
+  height: 90%;
+}
+.imgindescontainer{
+  margin-left: 300px;
+}
+.checkout{
+  margin-top: 30px;
+  margin-Left:250px;
+}
